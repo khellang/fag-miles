@@ -1,7 +1,7 @@
 Hello World! This is a change.
 
 
-Another section.
+Another section. This should be a conflict
 
 
 tsjøra bil te tsjino
